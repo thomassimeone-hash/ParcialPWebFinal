@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .mensaje{
   max-width: 500px;
             padding: 40px;
@@ -23,4 +24,31 @@
             align-items: center;
             height: 100vh;
             text-align: center;
+=======
+.mensaje{
+  max-width: 500px;
+            padding: 40px;
+            background: rgba(255, 255, 255, 0.1);
+            border-style: double;
+            border-color: aliceblue;
+}
+.volver {
+            display: inline-block;
+            padding: 12px 25px;
+            background: rgba(255, 255, 255, 0.2);
+            color: white;
+            text-decoration: none;
+            transition: 0.3s;
+            font-weight: bold;
+}
+.error{
+            font-family: 'Times New Roman', Times, serif;
+            background: linear-gradient(135deg, darkred, rgb(75, 3, 3));
+            color: white;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            text-align: center;
+>>>>>>> 90cb6f42a73c4e6f544cf64ac45182e4d03b559e
 }
