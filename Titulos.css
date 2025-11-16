@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 .Titulo {
     text-align: center;
   margin-left: 550px;
@@ -61,68 +60,4 @@
   text-align: center;
   margin: 20px auto;
   width: fit-content;
-=======
-.Titulo {
-    text-align: center;
-  margin-left: 550px;
-  margin-right: 600px;
-  border-style: double;
-  border-color: black;
-  color: aliceblue;
-  background-color: #6c2626;
-  padding: 10px 20px;
-}
-.TITULOa{
-    color: aliceblue;
-    margin-left: 360px;
-}
-.TITULO2 {
-  margin-left: 400px;
-  color: aliceblue;
-}
-.TITULO3 {
-  margin-top: 50px;
-  margin-left: 200px;
-  color: aliceblue;
-}
-.TITULO4 {
-  color: aliceblue;
-  margin-left: 450px;
-  display: block;
-  position: relative;
-  top: -200px;
-}
-.TITULO5 {
-  color: aliceblue;
-  margin-left: 50px;
-  display: block;
-  position: relative;
-  top: -150px;
-}
-.TITULO6 {
-  color:aliceblue;
-  margin-right: 690px;
-  margin-left: 670px;
-  border-style: double;
-  border-color: aliceblue;
-  padding: 10px;
-  background-color: #6c2626;
-}
-.TITULO7{
-    color: aliceblue;
-  margin-left: 50px;
-  display: block;
-  position: relative;
-
-}
-.TITULOE{
-   color: aliceblue;
-   background-color: #6c2626;
-   padding: 10px;
-   border-style: double;
-   border-color: aliceblue;
-  text-align: center;
-  margin: 20px auto;
-  width: fit-content;
->>>>>>> 90cb6f42a73c4e6f544cf64ac45182e4d03b559e
 }
