@@ -1,0 +1,111 @@
+.Texto1, 
+.Texto2, 
+.Texto3, 
+.Texto4, 
+.Texto5, 
+.Texto6,
+.Texto7, 
+.Texto8, 
+.Texto9, 
+.Texto10, 
+.Texto11, 
+.Texto12,
+.Texto13, 
+.Texto14, 
+.Texto15 {
+  padding: 25px;
+  font-size: large;
+  background-color: #6c2626;
+  border-style: double;
+  border-color: black;
+  color:aliceblue;
+}
+.Texto1 { margin-left: 55px;
+          margin-right: 700px; 
+            display: block;
+  position: relative; 
+}
+.Texto2 { margin-left: 55px;
+          margin-right: 700px; 
+          top: 25px;
+            display: block;
+  position: relative; 
+}
+.Texto3 {margin-left: 55px;
+          margin-right: 700px; 
+          top: 50px;
+            display: block;
+  position: relative; 
+}
+.Texto4 { margin-left: 55px;
+          margin-right: 550px; 
+            display: block;
+  position: relative;
+  top: 5px; 
+}
+.Texto5 { margin-left: 55px;
+          margin-right: 550px; 
+            display: block;
+  position: relative;
+  top: -280px; 
+}
+.Texto6 { margin-left: 55px;
+          margin-right: 550px; 
+            display: block;
+  position: relative;
+  top: -250px; 
+}
+.Texto7 { margin-left: 55px;
+          margin-right: 550px; 
+            display: block;
+  position: relative;
+  top: -528px; 
+}
+.Texto8 { 
+          margin-right: 800px; 
+            display: block;
+  position: relative;
+  top: -400px; 
+
+}
+.Texto9 { margin-right: 800px; 
+            display: block;
+  position: relative;
+  top: -400px; 
+}
+.Texto10 { margin-right: 800px; 
+            display: block;
+  position: relative;
+  top: -400px;  
+}
+.Texto11 { margin-right: 800px; 
+            display: block;
+  position: relative;
+  top: -400px; 
+}
+.Texto12 { margin-right: 800px; 
+            display: block;
+  position: relative;
+  top: -400px;  
+}
+.Texto13 { margin: 20px 600px 20px 100px; 
+}
+.Texto14 { margin: 20px 600px 20px 100px; 
+}
+.Texto15 { display: block;
+    position: relative;
+    top: -180px; 
+}
+.Texto16{
+    background-color: #6c2626;
+    margin-left: 400px;
+     margin-right: 400px; 
+     text-align: center;
+     text-size-adjust: 200px;
+            display: block;
+  position: relative; 
+  padding: 10px;
+  color: aliceblue;
+  border-style: double;
+  border-color: aliceblue;
+}
