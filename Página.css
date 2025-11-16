@@ -103,7 +103,10 @@ footer {
 
 .TextoBreve {
   text-align: center;
-  color: aliceblue#fff;
+  color: aliceblue;
   margin-bottom: 15px;
   font-size: large;
+}
+.track{
+  color: aliceblue;
 }
