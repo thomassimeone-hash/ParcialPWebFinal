@@ -1,0 +1,109 @@
+.inicio {
+  background-image: url(https://images.hdqwalls.com/wallpapers/american-psycho-26.jpg);
+  background-size: cover;       
+  background-position: center;   
+  background-repeat: no-repeat; 
+  background-attachment: fixed;
+  margin: 0;
+  background-color: darkred;
+}
+.menu {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  background-color: #6c2626;
+  border-style: double;
+  padding: 10px 20px;
+  margin: 35px auto;
+}
+.menu li {
+  margin-right: 50px;
+  margin-left: 70px;
+}
+.menu a {
+  text-decoration: none;
+  color: #fff; 
+  font-size: 18px;
+  transition: color 0.3s ease;
+}
+.menu a:hover{
+    color: rgb(51, 166, 166);
+}
+footer {
+  width: 100%;
+  text-align: center;
+  color: #fff;
+  font-size: 18px;
+  padding: 20px 0;
+  margin-top: 40px;
+}
+.formContacto {
+  width: 400px;
+  margin: 40px 0 0 50px;
+  padding: 20px;
+  background-color: #6c2626;
+  border-style: double;
+  border-color: black;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.form-contacto label {
+  font-weight: bold;
+}
+
+.form-contacto input,
+.form-contacto textarea {
+  padding: 10px;
+  border: 1px solid #000;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+.form-contacto textarea {
+  height: 120px;
+  resize: none;
+}
+
+.form-contacto button {
+  padding: 12px;
+  background-color: darkred;
+  color: white;
+  border: double black;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.form-contacto button:hover {
+  background-color: rgb(120, 0, 0);
+}
+.volverConf {
+  display: inline-block;
+  margin-left: 670px;
+
+  padding: 12px 25px;
+  background-color: #6c2626;
+  color: aliceblue;
+  text-decoration: none;
+  border-style: double;
+  border-color: aliceblue;
+  transition: color 0.3s ease;
+}
+
+.volverConf:hover {
+    color: rgb(51, 166, 166);
+}
+.spotify-container {
+  text-align: center;
+  margin: 30px auto;
+  max-width: 600px;
+}
+
+.TextoBreve {
+  text-align: center;
+  color: aliceblue#fff;
+  margin-bottom: 15px;
+  font-size: large;
+}
