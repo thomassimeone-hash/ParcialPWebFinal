@@ -36,13 +36,14 @@
   top: -150px;
 }
 .TITULO6 {
+  display: inline-block;
   color:aliceblue;
-  margin-right: 690px;
-  margin-left: 670px;
   border-style: double;
   border-color: aliceblue;
   padding: 10px;
   background-color: #6c2626;
+  text-align: center;
+  margin: 0 auto;
 }
 .TITULO7{
     color: aliceblue;
