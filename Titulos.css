@@ -1,12 +1,12 @@
 .Titulo {
+  display: flex;
     text-align: center;
-  margin-left: 550px;
-  margin-right: 600px;
+    align-items: center;
   border-style: double;
   border-color: black;
   color: aliceblue;
   background-color: #6c2626;
-  padding: 10px 20px;
+  padding: 10px;
 }
 .TITULOa{
     color: aliceblue;
